@@ -4,7 +4,7 @@ index 9ebbe89..edd4422 100644
 +++ b/add.py
 @@ -1,2 +1,2 @@
  def add(a,b):
--    return a - b
+-    return a * b
 \ No newline at end of file
 +    return a + b
 \ No newline at end of file
